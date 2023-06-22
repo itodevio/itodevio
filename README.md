@@ -74,7 +74,7 @@
 
 
 <h2>Some of my github stats <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="40" /></h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itodevio&layout=compact&theme=radical&title_color=268bd2" alt="My Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itodevio&layout=donut&theme=radical&title_color=268bd2&size_weight=0.5&count_weight=0.5&hide=java" width="400" alt="My Github Stats" />
 
 <h2>Where to find me? <img src="https://emojis.slackmojis.com/emojis/images/1687194397/66712/perry_looking.png?1687194397" width="40" /></h2>
 <a href="https://www.linkedin.com/in/italodev/" target="_blank">
