@@ -45,7 +45,7 @@
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
 <p>
-    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-ff9900.svg?logo=aws&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-ff9900.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white"></a>
