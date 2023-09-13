@@ -49,6 +49,7 @@
 <p>
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-ff9900.svg?logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="GCP" src ="https://img.shields.io/badge/GCP-4285f4.svg?logo=googlecloud&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white"></a>
