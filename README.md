@@ -1,7 +1,7 @@
 <h1>Hey there! Nice to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="40" /></h1>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif?1641578819" width="40" /> About me</h3>
-<p>I'm Ítalo (but I actually prefer beign called Ito 😁), a Fullstack developer from <img width="16" src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" /> <b>Brazil</b>!</p>
+<p>I'm Ítalo (but I actually prefer being called Ito 😁), a Fullstack developer from <img width="16" src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" /> <b>Brazil</b>!</p>
 
 - 😄 &nbsp; Pronouns: He/Him
 - 🤔 &nbsp; I am an avid basketball and tech lover and always try to practice them in my free time
