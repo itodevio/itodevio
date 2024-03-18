@@ -7,7 +7,7 @@
 - 🤔 &nbsp; I am an avid basketball and tech lover and always try to practice them in my free time
 - 🎓 &nbsp; Computer Science graduate with a Bachelor's degree at <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/computer-science" target="_blank">Mackenzie Presbyterian University</a>.
 - 💼 &nbsp; Currently working as a Fullstack Developer at <a href="https://www.geekie.com.br">Geekie</a>
-- 🌱 &nbsp; Studying, testing and exploring new techs, mostly the <img width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/remix.svg" /> Remix JavaScript framework (which is <b>AWESOME</b> <img src="https://emojis.slackmojis.com/emojis/images/1643516090/21130/meow_heart1.png?1643516090" width="20" />) and <img width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solidity" /> Solidity Smart Contract's development!
+- 🌱 &nbsp; Studying, testing and exploring new techs, mostly the <img width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/remix.svg" /> Remix JavaScript framework (which is <b>AWESOME</b> <img src="https://emojis.slackmojis.com/emojis/images/1643516090/21130/meow_heart1.png?1643516090" width="20" />) and <img width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solidity.svg" /> Solidity Smart Contract's development!
 - 💬 &nbsp; Ask me anything, I'll be glad to help!
 - 👨‍💻 &nbsp; Trying to maintain a tech blog on <a href="https://medium.com/@itossauro" target="_blank">Medium</a>
 
@@ -24,7 +24,7 @@
     <a href="https://github.com/search?q=user%3itodevio+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3itodevio+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3itodevio+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3itodevio+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-2b247c.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3itodevio+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-2b247c.svg?logo=solidity&logoColor=white"></a>
 </p>
 
 <h3>🧰 Frameworks and Libraries</h3>
