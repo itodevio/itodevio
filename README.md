@@ -50,6 +50,7 @@
 <p>
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-ff9900.svg?logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="GCP" src ="https://img.shields.io/badge/GCP-4285f4.svg?logo=googlecloud&logoColor=white"></a>
+    <a href="#"><img alt="Digital Oceal" src ="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -58,7 +59,19 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+</p>
+
+<h3>🕵️ Observability and Infrastructure</h3>
+
+<p>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
+    <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white"></a>
+    <a href="#"><img alt="Loki" src="https://img.shields.io/badge/Loki-F46800.svg?logo=grafana&logoColor=white"></a>
+    <a href="#"><img alt="Vector" src="https://img.shields.io/badge/Vector-632CA6.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjMwMC4zNDYiIHZpZXdCb3g9IjAgMCAyNTYgMzAwLjM0NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmVjdG9yPC90aXRsZT48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjEzLjUyMyUiIHkxPSI3NC42NzklIiB4Mj0iODYuNDE0JSIgeTI9IjI1LjMwNSUiIGlkPSJhIj48c3RvcCBzdG9wLWNvbG9yPSIjMTBFN0ZGIiBvZmZzZXQ9IjAlIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzMzRDVGRiIgb2Zmc2V0PSIxMC4zJSIvPjxzdG9wIHN0b3AtY29sb3I9IiM2MEJERkYiIG9mZnNldD0iMjUuNSUiLz48c3RvcCBzdG9wLWNvbG9yPSIjODZBQUZGIiBvZmZzZXQ9IjQwLjglIi8+PHN0b3Agc3RvcC1jb2xvcj0iI0EzOUFGRiIgb2Zmc2V0PSI1NiUiLz48c3RvcCBzdG9wLWNvbG9yPSIjQjc5MEZGIiBvZmZzZXQ9IjcxJSIvPjxzdG9wIHN0b3AtY29sb3I9IiNDNDg5RkYiIG9mZnNldD0iODUuOCUiLz48c3RvcCBzdG9wLWNvbG9yPSIjQzg4N0ZGIiBvZmZzZXQ9IjEwMCUiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4MT0iMjEuMDA2JSIgeTE9IjU0LjAzMyUiIHgyPSI5Ni40NjYlIiB5Mj0iMjcuMDQ3JSIgaWQ9ImIiPjxzdG9wIHN0b3AtY29sb3I9IiMxMEU3RkYiIG9mZnNldD0iMCUiLz48c3RvcCBzdG9wLWNvbG9yPSIjMzNENUZGIiBvZmZzZXQ9IjEwLjMlIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzYwQkRGRiIgb2Zmc2V0PSIyNS41JSIvPjxzdG9wIHN0b3AtY29sb3I9IiM4NkFBRkYiIG9mZnNldD0iNDAuOCUiLz48c3RvcCBzdG9wLWNvbG9yPSIjQTM5QUZGIiBvZmZzZXQ9IjU2JSIvPjxzdG9wIHN0b3AtY29sb3I9IiNCNzkwRkYiIG9mZnNldD0iNzElIi8+PHN0b3Agc3RvcC1jb2xvcj0iI0M0ODlGRiIgb2Zmc2V0PSI4NS44JSIvPjxzdG9wIHN0b3AtY29sb3I9IiNDODg3RkYiIG9mZnNldD0iMTAwJSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxnPjxwYXRoIGQ9Ik0xMjgsMzAwLjM0NjQ1NiBMMCwyMjUuMjU5ODQzIEwwLDc1LjA4NjYxNCBMMTI4LDAgTDI1Niw3NS4wODY2MTQgTDI1NiwyMjUuMjU5ODQzIEwxMjgsMzAwLjM0NjQ1NiBaIE0xNy44ODk3NjM4LDIxNC42NzcxNjYgTDEyNy43NDgwMzEsMjc5LjE4MTEwMyBMMjM3LjYwNjI5OSwyMTQuNjc3MTY2IEwyMzcuNjA2Mjk5LDg1LjY2OTI5MTUgTDEyOCwyMS4xNjUzNTQ0IEwxNy44ODk3NjM4LDg1LjY2OTI5MTUgTDE3Ljg4OTc2MzgsMjE0LjY3NzE2NiBaIiBmaWxsPSJ1cmwoI2EpIi8+PHBhdGggZD0iTTE4My4xODExMDMsMTA5LjM1NDMzMSBMMTM4LjMzMDcwOSwxODguMjIwNDczIEwxNTIuOTQ0ODgyLDIxMy45MjEyNiBMMjEyLjQwOTQ0OSwxMDkuMzU0MzMxIEwxODMuMTgxMTAzLDEwOS4zNTQzMzEgTDE4My4xODExMDMsMTA5LjM1NDMzMSBaIE0xMzMuMDM5MzcsMTA5LjM1NDMzMSBMODguMTg4OTc2NSwxODguMjIwNDczIEwxMDIuODAzMTQ5LDIxMy45MjEyNiBMMTYyLjI2NzcxNywxMDkuMzU0MzMxIEwxMzMuMDM5MzcsMTA5LjM1NDMzMSBMMTMzLjAzOTM3LDEwOS4zNTQzMzEgWiBNNDMuNTkwNTUxMiwxMDkuMzU0MzMxIEwxMDMuMDU1MTE4LDIxMy45MjEyNiBMMTE3LjY2OTI5MSwxODguMjIwNDczIEw3Mi44MTg4OTc1LDEwOS4zNTQzMzEgTDQzLjU5MDU1MTIsMTA5LjM1NDMzMSBMNDMuNTkwNTUxMiwxMDkuMzU0MzMxIFogTTQzLjU5MDU1MTIsMTA5LjM1NDMzMSBMMTAzLjA1NTExOCwyMTMuOTIxMjYgTDExNy42NjkyOTEsMTg4LjIyMDQ3MyBMNzIuODE4ODk3NSwxMDkuMzU0MzMxIEw0My41OTA1NTEyLDEwOS4zNTQzMzEgTDQzLjU5MDU1MTIsMTA5LjM1NDMzMSBaIE0xMzMuMDM5MzcsMTA5LjM1NDMzMSBMODguMTg4OTc2NSwxODguMjIwNDczIEwxMDIuODAzMTQ5LDIxMy45MjEyNiBMMTYyLjI2NzcxNywxMDkuMzU0MzMxIEwxMzMuMDM5MzcsMTA5LjM1NDMzMSBMMTMzLjAzOTM3LDEwOS4zNTQzMzEgWiIgZmlsbD0idXJsKCNiKSIvPjwvZz48L3N2Zz4=&logoColor=white"></a>
+    <a href="#"><img alt="VictoriaMetrics" src="https://img.shields.io/badge/VictoriaMetrics-621773.svg?logo=victoriametrics&logoColor=white"></a>
+    <a href="#"><img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-4285F4.svg?logo=google&logoColor=white"></a>
+    <a href="#"><img alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1.svg?logo=traefikproxy&logoColor=white"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
 </p>
 
 <h3>💻 Software and Tools</h3>
