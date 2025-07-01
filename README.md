@@ -1,12 +1,12 @@
 <h1>Hey there! Nice to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="40" /></h1>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif?1641578819" width="40" /> About me</h3>
-<p>I'm Ítalo (but I actually prefer being called Ito 😁), a Fullstack developer from <img width="16" src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" /> <b>Brazil</b>!</p>
+<p>I'm Ítalo (but I actually prefer being called Ito 😁), a FullStack Software Engineer working at Google!</p>
 
 - 😄 &nbsp; Pronouns: He/Him
 - 🤔 &nbsp; I am an avid basketball and tech lover and always try to practice them in my free time
 - 🎓 &nbsp; Computer Science graduate with a Bachelor's degree at <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/computer-science" target="_blank">Mackenzie Presbyterian University</a>.
-- 💼 &nbsp; Currently working as a Fullstack Developer at <a href="https://www.geekie.com.br">Geekie</a>
+- 💼 &nbsp; Currently working as a FullStack Software Engineer at Google
 - 🌱 &nbsp; Studying, testing and exploring new techs, mostly the <img width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/remix.svg" /> Remix JavaScript framework (which is <b>AWESOME</b> <img src="https://emojis.slackmojis.com/emojis/images/1643516090/21130/meow_heart1.png?1643516090" width="20" />) and <img width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solidity.svg" /> Solidity Smart Contract's development!
 - 💬 &nbsp; Ask me anything, I'll be glad to help!
 - 👨‍💻 &nbsp; Trying to maintain a tech blog on <a href="https://medium.com/@itossauro" target="_blank">Medium</a>
